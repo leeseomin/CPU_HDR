@@ -75,7 +75,14 @@ bash main.sh
 
 
 
+ ### input image2
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/s/222.jpg" width="700">
  
+### output1 (image2)
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/223.png" width="2000">
+ 
+ ### output2 (image2)
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/224.jpg" width="2000">
 
   
   
