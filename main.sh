@@ -31,7 +31,7 @@ done
 cd .. 
 cd s4
 for i in *.*; do
-   convert $i  -set filename:new ../s25/"%tcpu2" "%[filename:new].jpg"
+   convert $i  -set filename:new ../s25/"%tcpu2" "%[filename:new].png"
 done
 cd ..
 cd s3
