@@ -67,15 +67,12 @@ bash main.sh
 ### input image1
  <img src="https://github.com/leeseomin/CPU_HDR/blob/main/s/11.jpg" width="700">
  
-### output image1
+### output1 (image1)
  <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/111.png" width="2000">
+ 
+ ### output2 (image1)
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/112.png" width="2000">
 
-
-### input image2
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
-
-### output image2
- <img src="https://github.com/leeseomin/arte3/blob/main/399out.png" width="1600">
 
 
  
