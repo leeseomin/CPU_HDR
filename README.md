@@ -68,7 +68,7 @@ bash main.sh
  <img src="https://github.com/leeseomin/CPU_HDR/blob/main/s/11.jpg" width="700">
  
 ### output image1
- <img src="https://github.com/leeseomin/arte3/blob/main/335out.png" width="1500">
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/111.png" width="2000">
 
 
 ### input image2
@@ -77,30 +77,9 @@ bash main.sh
 ### output image2
  <img src="https://github.com/leeseomin/arte3/blob/main/399out.png" width="1600">
 
-### input image3 (Modigliani)
- <img src="https://github.com/leeseomin/arte3/blob/main/s/modigliani.png" width="500">
+
  
-### output image3 (Modigliani)
- <img src="https://github.com/leeseomin/arte3/blob/main/modiout.png" width="1600">
- 
- 
-### input image4 (Egon Schiele)
- <img src="https://github.com/leeseomin/arte3/blob/main/s/egon.png" width="500">
- 
-### output image4 (Egon Schiele)
- <img src="https://github.com/leeseomin/arte3/blob/main/egonout.png" width="1600">
- 
- 
- 
-### make animated png result
-```
-ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
-  -c:v libx264 out.mp4
-  
-  
-ffmpeg -i out.mp4 -plays 0  apngout.apng
-  
-```  
+
   
   
 
