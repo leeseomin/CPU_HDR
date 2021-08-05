@@ -84,7 +84,15 @@ bash main.sh
  ### output2 (image2)
  <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/224.jpg" width="2000">
 
-  
+
+ ### input image3
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/s/555.jpg" width="700">
+ 
+### output1 (image3)
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/556.png" width="2000">
+ 
+ ### output2 (image3)
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/557.png" width="2000">  
   
 
 ### License
