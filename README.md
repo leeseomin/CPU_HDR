@@ -65,7 +65,7 @@ bash main.sh
 ###  Results
 
 ### input image1
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0335.png" width="500">
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/s/11.jpg" width="700">
  
 ### output image1
  <img src="https://github.com/leeseomin/arte3/blob/main/335out.png" width="1500">
