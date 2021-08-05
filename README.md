@@ -41,9 +41,9 @@ https://telegra.ph/Gmic-update-filters-07-26
 
 ```
 
-git clone https://github.com/leeseomin/arte3
+git clone https://github.com/leeseomin/CPU_HDR
 
-cd arte3
+cd CPU_HDR
 
 mkdir s{1..25}
 
