@@ -71,7 +71,7 @@ bash main.sh
  <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/111.png" width="2000">
  
  ### output2 (image1)
- <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/112.png" width="2000">
+ <img src="https://github.com/leeseomin/CPU_HDR/blob/main/out/112.jpg" width="2000">
 
 
 
