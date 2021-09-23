@@ -58,6 +58,10 @@ input images folder : s ,   result folder : s25
 
 bash main.sh
 
+
+# simply hdr effect
+
+bash 3.sh
 ```
 
 
